@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WarSniffer", "WarSniffer\WarSniffer.vcxproj", "{8A917C8C-2168-4632-9E44-FAB629E9B9CB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PacketLogger", "PacketLogger\PacketLogger.vcxproj", "{4D925422-CBB3-49ED-B5EF-11678023364C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A917C8C-2168-4632-9E44-FAB629E9B9CB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8A917C8C-2168-4632-9E44-FAB629E9B9CB}.Debug|Win32.Build.0 = Debug|Win32
+		{8A917C8C-2168-4632-9E44-FAB629E9B9CB}.Release|Win32.ActiveCfg = Release|Win32
+		{8A917C8C-2168-4632-9E44-FAB629E9B9CB}.Release|Win32.Build.0 = Release|Win32
+		{4D925422-CBB3-49ED-B5EF-11678023364C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4D925422-CBB3-49ED-B5EF-11678023364C}.Debug|Win32.Build.0 = Debug|Win32
+		{4D925422-CBB3-49ED-B5EF-11678023364C}.Release|Win32.ActiveCfg = Release|Win32
+		{4D925422-CBB3-49ED-B5EF-11678023364C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
