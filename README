@@ -1,0 +1,12 @@
+/*
+* created by zozooo  9/21/2013
+* This is a packet logging tool for warhammer online 1.4.8
+* In order to run this tool, you must move the PacketLogger folder to warhammer main directory
+* Example : ...\Electronic Arts\Warhammer Online - Age of Reckoning\PacketLogger
+*
+* List of files/folders needed:
+*        file:        ignorelist.txt
+*        file:        PacketLogger.exe
+*        file:        WarSniffer.dll
+*        folder:        logs
+*/
